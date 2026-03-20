@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "knifefish.aternos.host",
+    "ip": "protonium.aternos.me",
     "port": 41780,
     "version": "",
     "try-creative": false
