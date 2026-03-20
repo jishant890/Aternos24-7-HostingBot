@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "Protonium.aternos.me",
+    "ip": "knifefish.aternos.host",
     "port": 41780,
-    "version": "1.21.9",
+    "version": "",
     "try-creative": false
   },
   "position": {
