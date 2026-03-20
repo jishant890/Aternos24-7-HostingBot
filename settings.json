@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "protonium.aternos.me",
+    "ip": "protonium.aternos.me:41780",
     "port": 41780,
     "version": "",
     "try-creative": false
